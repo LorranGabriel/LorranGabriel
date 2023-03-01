@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorrangabriel&label=Profile%20views&color=0e75b6&style=flat" alt="lorrangabriel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorrangabriel" alt="lorrangabriel" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **lorrangabriel20@gmail.com**
